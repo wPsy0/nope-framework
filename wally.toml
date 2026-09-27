@@ -1,0 +1,11 @@
+[package]
+name = "wpsy0/nope-framework"
+description = "N.O.P.E. (No Organization, Pure Experiment)"
+license = "MIT"
+authors = ["David Bellerati"]
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["rokit.toml"]
+
+[dependencies]
